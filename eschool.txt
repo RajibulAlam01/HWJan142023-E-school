@@ -1,0 +1,30 @@
+Books
+Courses
+Others
+Blog
+
+sign in
+
+font-family----
+Poppins  400, 500, 700
+roboto   400
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+color----
+red   #FD511A
+black #000000
+green #21B573
+
+
+padding----
+
+
+button, section title, footer title, footer link-----
+
+
+font-size
+banner
+h1
+
+xxl,xl,lg    md     sm-col
